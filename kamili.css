@@ -1,0 +1,87 @@
+.container{
+    margin: 0 auto;
+    width: 960px;
+    
+    border: 5px solid solid #8a96d8;
+    
+
+}
+
+body{
+    background: hsl(241, 80%, 86%) url(images/noise.png);
+    font-family: Gravity Font, sans-serif;
+    line-height: 1.1;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 68px ;
+    font-style: oblique;
+    color: #44485f;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: #494545;
+    font-size: xx-large;
+   
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-larger;
+    color: #3a2323;
+    line-height: 1.3;
+}
+img{
+    width: 320px;
+    
+}
+.place{
+    border: 4px solid #7d8ff7;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: rgb(145, 231, 202);
+}
+
+.place h1{
+    border-bottom: #80c0f5;
+    margin: 10px;
+}
+.place img{
+    float: left;
+    border: 5px solid #969fd1;
+    margin-bottom: 2px;
+    padding: 6px;
+    background-color: #cac9ff;
+    margin-right: 10px;
+}
+.footer
+{
+    text-align: center;
+}
+.sidenote{
+    border: 4px solid #7d8ff7;
+    margin-bottom: 10px;
+    padding: 2px;
+    background-color: rgb(145, 231, 202);
+    width: 260px;
+    float: right;
+}
+
+.sidenote h3 {
+    font-size: 14px;
+    margin-top: 0;
+    }
+    .sidenote ol {
+    font-size: 12px;
+    }
+
+.places{
+    float: left;
+    width: 660px;
+}
+
+.clear{
+    clear:both;
+}
+
